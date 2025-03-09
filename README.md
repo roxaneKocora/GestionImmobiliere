@@ -1,11 +1,17 @@
 Test technique Stage InnovQube
-
 Auteur : Roxane KOCORA
 
+Description du projet
+
+Ce projet est une application de gestion immobilière développée avec le framework Laravel. Il intègre plusieurs composants clés de Laravel :
+Breeze pour l'authentification
+Livewire pour les composants dynamiques
+Filament pour la gestion des interfaces d'administration
+Tailwind CSS et Blade pour la partie front-end
+Ce projet a été une opportunité d'approfondir notre maîtrise de Laravel et d'explorer ses composants essentiels pour le développement d'applications web modernes et performantes.
+
 🛠️ Prérequis
-
 Avant d'installer et d'exécuter ce projet, assurez-vous d'avoir les éléments suivants :
-
 - PHP (>= 8.1)
 - Composer
 - MySQL
