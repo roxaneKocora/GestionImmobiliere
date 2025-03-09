@@ -1,4 +1,4 @@
-Test technique Stage InnovQub
+Test technique Stage InnovQube
 
 🛠️ Prérequis
 
