@@ -1,5 +1,7 @@
 Test technique Stage InnovQube
 
+Auteur : Roxane KOCORA
+
 🛠️ Prérequis
 
 Avant d'installer et d'exécuter ce projet, assurez-vous d'avoir les éléments suivants :
